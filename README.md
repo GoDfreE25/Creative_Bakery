@@ -1,6 +1,6 @@
 Bakerlab
 
-  [DEMO LINK](https://godfree25.github.io/Creative_Bakery/).
+  [DEMO LINK](https://godfree25.github.io/Creative_Bakery/)
 
 Description
 While creating the project

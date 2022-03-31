@@ -1,4 +1,34 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Bakerlab
+
+  [DEMO LINK](https://GoDfreE25.github.io/layout_creativeBakery/).
+
+Description
+While creating the project
+
+-[Sass preprocessor](https://sass-lang.com)
+
+and
+
+-[BEM methodology](https://en.bem.info/methodology/)
+
+were used.
+
+
+Local development
+
+Dependencies
+
+Node v12.16.3 and higher
+NPM v6.14.4 and higher
+
+Installing
+
+Fork and clone this repository
+Run npm install in your terminal
+Run npm start
+
+Troubleshooting
+
+For contributing or problem solving you could find me
+
+- [Me](https://github.com/GoDfreE25)
